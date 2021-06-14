@@ -1,5 +1,5 @@
 import React from 'react'
-import Steup from './tutorial/11-react-router/setup/index';
+import Steup from './tutorial/12-memo-useMemo-useCallback/setup/index';
 
 
 function App() {
