@@ -37,7 +37,7 @@ if (loading) {
     <div className="jobs-center">
       <div className="btn-container">
         {jobs.map((job,index)=>(
-          <div key={job.id}>
+          <div key={job.id}>            
             <button onClick={()=>setValue(index)} className={`job-btn ${index===value&&'active-btn'}`}>{job.company}</button>
           </div>
         ))}
