@@ -1,7 +1,7 @@
 import './App.css';
 import React from 'react';
-import Application from "./10grocery-bud/App"
-import "./10grocery-bud/index.css"
+import Application from "./14usereducer/App"
+import "./14usereducer/index.css"
 
 
 
